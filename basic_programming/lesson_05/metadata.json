@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/boolean_type/src/Main.java",
+    "code/homework5/src/Homework.java",
+    "code/homework5/src/Main.java"
+
+  ],
+  "video": ""
+}
