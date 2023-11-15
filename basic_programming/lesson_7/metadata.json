@@ -3,7 +3,11 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/main6/src/Homework.java"
+    "code/main7/src/Homework.java",
+    "code/main7/src/Practice.java",
+    "code/our_switch/src/DayOfWeek.java",
+    "code/our_switch/src/HelpSystem.java",
+    "code/our_switch/src/Main.java"
 
   ],
   "video": ""
