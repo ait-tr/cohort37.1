@@ -3,10 +3,8 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/main9/src/Homework.java",
-    "code/main9/src/Main.java",
-    "code/main9/src/TypeConversion.java"
-
+    "code/main10/src/Homework.java",
+    "code/while_loop/src/Main.java"
 
   ],
   "video": ""
