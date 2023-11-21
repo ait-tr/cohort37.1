@@ -3,8 +3,12 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/main11/src/Homework.java",
-    "code/do_while/src/Main.java"
+    "code/do_while/src/Main.java",
+    "code/do_while/src/MultiplicationTable.java",
+    "code/homework11/src/GuessNumber.java",
+    "code/homework11/src/Homework.java",
+    "code/main11/src/GuessNumberModified.java",
+    "code/main11/src/TernaryOperator.java"
 
   ],
   "video": ""
