@@ -3,7 +3,10 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/homework12/src/Homework.java"
+    "code/for_loop/src/BreakContinue.java",
+    "code/for_loop/src/Example.java",
+    "code/for_loop/src/Main.java",
+    "code/main12/src/Homework.java"
 
 
   ],
