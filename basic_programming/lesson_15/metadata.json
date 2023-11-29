@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/bubble_sort/src/Main.java",
+    "code/main15/src/Homework.java",
+    "code/main15/src/TypeConversion.java"
+
+  ],
+  "video": ""
+}
