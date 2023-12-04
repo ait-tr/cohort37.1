@@ -4,7 +4,10 @@
   "homework": "homework.md",
   "code": [
     "code/main18/src/Homework.java",
-    "code/practice/src/Practice.java"
+    "code/oop/src/Car.java",
+    "code/oop/src/Main.java",
+    "code/oop/src/Person.java",
+    "code/oop/src/Truck.java"
 
   ],
   "video": ""
