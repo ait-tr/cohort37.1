@@ -3,8 +3,12 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/main19/src/Homework.java"
-
+    "code/encapsulation/src/Employee.java",
+    "code/encapsulation/src/Main.java",
+    "code/homework19/src/Main.java",
+    "code/homework19/src/Rectangle.java",
+    "code/homework19/src/Student.java",
+    "code/string_pool/src/Main.java"
 
   ],
   "video": ""
