@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/encapsulation20/src/Employee.java",
+    "code/encapsulation20/src/Main.java",
+    "code/homework20/src/Main.java",
+    "code/homework20/src/Temperature.java",
+    "code/trucks/src/Main.java",
+    "code/trucks/src/Truck.java"
+
+
+  ],
+  "video": ""
+}
