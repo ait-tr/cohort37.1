@@ -1,0 +1,18 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/homework22/src/Dog.java",
+    "code/homework22/src/Homework.java",
+    "code/railway/src/Platforms.java",
+    "code/static_keyWord/src/Car.java",
+    "code/static_keyWord/src/FindFactorial.java",
+    "code/static_keyWord/src/Main.java",
+    "code/static_keyWord/src/StaticBlocks.java"
+
+
+
+  ],
+  "video": ""
+}
