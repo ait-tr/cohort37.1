@@ -3,7 +3,13 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-   "code/homework23/src/Homework.java"
+   "code/homework23/src/CarInSalon.java",
+   "code/homework23/src/Main.java",
+   "code/method_overloading/src/Employee.java",
+   "code/method_overloading/src/Main.java",
+   "code/method_overloading/src/Person.java",
+   "code/this_usage/src/Example.java",
+   "code/this_usage/src/Main.java"
   ],
   "video": ""
 }
