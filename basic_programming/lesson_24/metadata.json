@@ -3,7 +3,17 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-   "code/homework23/src/Main.java"
+   "code/homework24/src/Calculator.java",
+   "code/homework24/src/Main.java",
+   "code/inheritance/src/JavaTeacher.java",
+   "code/inheritance/src/Main.java",
+   "code/inheritance/src/ParentClass.java",
+   "code/inheritance/src/SubClass.java",
+   "code/inheritance/src/Teacher.java",
+   "code/method_overriding/src/Animal.java",
+   "code/method_overriding/src/Dog.java",
+   "code/method_overriding/src/Horse.java",
+   "code/method_overriding/src/Main.java"
 
   ],
   "video": ""
