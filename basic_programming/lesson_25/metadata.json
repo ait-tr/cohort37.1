@@ -3,6 +3,12 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation/src/Animal.java",
+   "code/consultation/src/Bird.java",
+   "code/consultation/src/Lion.java",
+   "code/consultation/src/Monkey.java",
+   "code/consultation/src/Snake.java",
+   "code/consultation/src/Zoo.java",
    "code/inheritance_/src/A.java",
    "code/inheritance_/src/B.java",
    "code/inheritance_/src/C.java",
