@@ -1,0 +1,20 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/inheritance_/src/A.java",
+   "code/inheritance_/src/B.java",
+   "code/inheritance_/src/C.java",
+   "code/inheritance_/src/JavaTeacher.java",
+   "code/inheritance_/src/Main.java",
+   "code/inheritance_/src/Teacher.java",
+   "code/main25/src/Main.java",
+   "code/method__overriding/src/Car.java",
+   "code/method__overriding/src/Main.java",
+   "code/method__overriding/src/PassengerCar.java",
+   "code/method__overriding/src/Truck.java"
+
+  ],
+  "video": ""
+}
