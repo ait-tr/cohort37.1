@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/main26/src/Main.java",
+   "code/practice26/src/Main.java",
+   "code/super_keyword/src/Main.java",
+   "code/super_keyword/src/ParentClass.java",
+   "code/super_keyword/src/SubClass.java",
+   "code/trucks26/src/Car.java",
+   "code/trucks26/src/Main.java",
+   "code/trucks26/src/PassengerCar.java",
+   "code/trucks26/src/Truck.java"
+
+  ],
+  "video": ""
+}
