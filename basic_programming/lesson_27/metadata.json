@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/geometric_figures/src/Circle.java",
+   "code/geometric_figures/src/Main.java",
+   "code/geometric_figures/src/Rectangle.java",
+   "code/geometric_figures/src/Shape.java",
+   "code/geometric_figures/src/Square.java",
+   "code/pizza_shop/src/Main.java"
+
+
+  ],
+  "video": ""
+}
