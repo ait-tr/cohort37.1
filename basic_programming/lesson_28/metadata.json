@@ -1,0 +1,25 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/aggregation/src/Address.java",
+   "code/aggregation/src/Book.java",
+   "code/aggregation/src/Car.java",
+   "code/aggregation/src/Engine.java",
+   "code/aggregation/src/Library.java",
+   "code/aggregation/src/Main.java",
+   "code/aggregation/src/School.java",
+   "code/aggregation/src/Student.java",
+   "code/aggregation/src/Teacher.java",
+   "code/pizza__shop/src/Main.java",
+   "code/pizza__shop/src/Pizza.java",
+   "code/pizza__shop/src/PizzaChoice.java",
+   "code/pizza__shop/src/PizzaHawaii.java",
+   "code/pizza__shop/src/PizzaMargarita.java",
+   "code/pizza__shop/src/PizzaSalami.java"
+
+  ],
+  "video": ""
+}
