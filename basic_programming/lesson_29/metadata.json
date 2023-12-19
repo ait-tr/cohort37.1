@@ -1,0 +1,18 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/abstract_classes/src/Animal.java",
+   "code/abstract_classes/src/Dog.java",
+   "code/abstract_classes/src/Lion.java",
+   "code/abstract_classes/src/Main.java",
+   "code/abstract_classes/src/Wolf.java",
+   "code/garden/src/Garden.java",
+   "code/homework29/src/Main.java",
+   "code/homework29/src/Money.java",
+   "code/homework29/src/Wallet.java"
+
+  ],
+  "video": ""
+}
