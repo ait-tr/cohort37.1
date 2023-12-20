@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/enumerations/src/Main.java",
+   "code/enumerations/src/Transport.java",
+   "code/enumerations/src/Week.java",
+   "code/growing_plants/src/Flower.java",
+   "code/growing_plants/src/Garden.java",
+   "code/growing_plants/src/Plant.java",
+   "code/growing_plants/src/Tree.java",
+   "code/our_stringbuilder/src/Main.java"
+  ],
+  "video": ""
+}
