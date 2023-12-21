@@ -4,7 +4,25 @@
   "homework": "homework.md",
   "code": [
 
-   "code/our_stringbuilder/src/Main.java"
+   "code/default_methods/src/OurInterfaceWithDefaultMethods.java",
+   "code/homework31/src/DayOfWeek.java",
+   "code/homework31/src/DayOfWeekResolver.java",
+   "code/homework31/src/Main.java",
+   "code/interfaces_in_java/src/A.java",
+   "code/interfaces_in_java/src/ABC.java",
+   "code/interfaces_in_java/src/Auto.java",
+   "code/interfaces_in_java/src/B.java",
+   "code/interfaces_in_java/src/Breakable.java",
+   "code/interfaces_in_java/src/Car.java",
+   "code/interfaces_in_java/src/Constants.java",
+   "code/interfaces_in_java/src/ConstantUsage.java",
+   "code/interfaces_in_java/src/Main.java",
+   "code/interfaces_in_java/src/Movable.java",
+   "code/interfaces_in_java/src/OurInterface.java",
+   "code/interfaces_in_java/src/Practice.java",
+   "code/interfaces_in_java/src/Serial.java",
+   "code/interfaces_in_java/src/Three.java",
+   "code/interfaces_in_java/src/Two.java",
   ],
   "video": ""
 }
