@@ -1,0 +1,26 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/interfaces/src/Main.java",
+   "code/interfaces/src/OurClass.java",
+   "code/interfaces/src/OurInterface.java",
+   "code/interfaces/src/OurInterface1.java",
+   "code/main32/src/TaskFromConsultation.java",
+   "code/practice32/src/Main.java",
+   "code/practice32/src/StarChecker.java",
+   "code/practice32/src/ToLowerCaseChecker.java",
+   "code/practice32/src/ToUpperCaseChecker.java",
+   "code/practice32/src/WordsChecker.java",
+   "code/practice32/src/WordsTransformer.java",
+   "code/shapes/src/Circle.java",
+   "code/shapes/src/Main.java",
+   "code/shapes/src/Rectangle.java",
+   "code/shapes/src/Shape.java",
+   "code/shapes/src/ShapeCalculator.java"
+
+  ],
+  "video": ""
+}
