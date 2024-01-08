@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/accounting/src/Company.java",
+   "code/accounting/src/Employee.java",
+   "code/accounting/src/Main.java",
+   "code/accounting/src/SalesManager.java",
+   "code/accounting/src/StateConstants.java",
+   "code/accounting/src/WageEmployee.java"
+
+  ],
+  "video": ""
+}
