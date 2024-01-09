@@ -1,0 +1,21 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/comparable_interface/src/Main.java",
+   "code/comparable_interface/src/Player.java",
+   "code/generics/src/Display.java",
+   "code/generics/src/OurGenerics.java",
+   "code/generics/src/Person.java",
+   "code/generics/src/Person2.java",
+   "code/generics/src/Person3.java",
+   "code/generics/src/Personasable.java",
+   "code/generics/src/PersonInt.java",
+   "code/wrapper_classes/src/Main.java"
+
+
+  ],
+  "video": ""
+}
