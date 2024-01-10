@@ -1,0 +1,26 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/accounting_/src/Company.java",
+   "code/accounting_/src/Employee.java",
+   "code/accounting_/src/Main.java",
+   "code/accounting_/src/SalesManager.java",
+   "code/accounting_/src/StateConstants.java",
+   "code/accounting_/src/WageEmployee.java",
+   "code/comparator_interface/src/Author.java",
+   "code/comparator_interface/src/AuthorNameComparator.java",
+   "code/comparator_interface/src/BookNameComparator.java",
+   "code/comparator_interface/src/Main.java",
+   "code/comparator_interface/src/YearComparator.java",
+   "code/practice35/src/Animal.java",
+   "code/practice35/src/ComparatorByLastLetter.java",
+   "code/practice35/src/ComparatorByName.java",
+   "code/practice35/src/ComparatorByWeight.java",
+   "code/practice35/src/Main.java"
+
+  ],
+  "video": ""
+}
