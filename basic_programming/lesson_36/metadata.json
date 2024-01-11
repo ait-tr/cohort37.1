@@ -1,0 +1,26 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+   "code/accounting__/src/Company.java",
+   "code/accounting__/src/ComparatorById.java",
+   "code/accounting__/src/ComparatorByNameThenId.java",
+   "code/accounting__/src/Employee.java",
+   "code/accounting__/src/Main.java",
+   "code/accounting__/src/SalesManager.java",
+   "code/accounting__/src/StateConstants.java",
+   "code/accounting__/src/WageEmployee.java",
+   "code/comparator_comparing/src/Main.java",
+   "code/comparator_comparing/src/Person.java",
+   "code/comparator_comparing/src/PersonAgeComparator.java",
+   "code/comparator_comparing/src/PersonNameComparator.java",
+   "code/unit_testing/src/Calculator.java",
+   "code/unit_testing/src/CalculatorTest.java",
+   "code/unit_testing/src/Main.java"
+
+
+  ],
+  "video": ""
+}
