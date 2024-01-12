@@ -3,7 +3,17 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-   "code/unit_testing/src/Main.java"
+   "code/main37/src/RemoveEltArray.java",
+   "code/our_arraylist/src/Main.java",
+   "code/our_arraylist/src/OurArrayList.java",
+   "code/our_arraylist/src/OurList.java",
+   "code/our_collections/src/Main.java",
+   "code/shapes37/src/Circle.java",
+   "code/shapes37/src/Main.java",
+   "code/shapes37/src/Rectangle.java",
+   "code/shapes37/src/Shape.java",
+   "code/shapes37/src/ShapeCalculator.java",
+   "code/shapes37/src/ShapeCalculatorTest.java"
   ],
   "video": ""
 }
