@@ -3,6 +3,10 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation_38/src/Address.java",
+   "code/consultation_38/src/ListExercises.java",
+   "code/consultation_38/src/ListExercisesTest.java",
+   "code/consultation_38/src/Person.java",
    "code/our__arraylist/src/Main.java",
    "code/our__arraylist/src/OurArrayList.java",
    "code/our__arraylist/src/OurArrayListTest.java",
