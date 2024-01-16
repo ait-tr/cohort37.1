@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/equals_hashcode/src/Main.java",
+   "code/equals_hashcode/src/Order.java",
+   "code/homework39/src/Homework.java",
+   "code/homework39/src/HomeworkTest.java",
+   "code/our__iterator/src/OurIerator.java",
+   "code/our__iterator/src/OurIeratorTest.java",
+   "code/our__iterator/src/OurListIteratorTest.java"
+
+  ],
+  "video": ""
+}
