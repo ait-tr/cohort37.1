@@ -3,6 +3,8 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation39/src/Practice.java",
+   "code/consultation39/src/PracticeTest.java",
    "code/equals_hashcode/src/Main.java",
    "code/equals_hashcode/src/Order.java",
    "code/homework39/src/Homework.java",
