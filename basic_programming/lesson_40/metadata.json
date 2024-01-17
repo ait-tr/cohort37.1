@@ -4,6 +4,8 @@
   "homework": "homework.md",
   "code": [
 
+   "code/consultation40/src/MapExercises.java",
+   "code/consultation40/src/MapExercisesTest.java",
    "code/homework40/src/Homework.java",
    "code/homework40/src/HomeworkTest.java",
    "code/main40/src/Demo.java",
