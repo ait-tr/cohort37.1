@@ -1,0 +1,18 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/homework41/src/Homework.java",
+   "code/homework41/src/HomeworkTest.java",
+   "code/map__implement/src/Main.java",
+   "code/map__implement/src/OurHashMap.java",
+   "code/map__implement/src/OurHashMapTest.java",
+   "code/map__implement/src/OurMap.java",
+   "code/our_set/src/Main.java",
+   "code/practice41/src/Practice.java"
+
+
+  ],
+  "video": ""
+}
