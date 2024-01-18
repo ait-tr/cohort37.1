@@ -3,6 +3,8 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation41/src/Main.java",
+   "code/consultation41/src/MainTest.java",
    "code/homework41/src/Homework.java",
    "code/homework41/src/HomeworkTest.java",
    "code/map__implement/src/Main.java",
