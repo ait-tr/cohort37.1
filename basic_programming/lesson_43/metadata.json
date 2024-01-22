@@ -1,0 +1,13 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/homework43/src/AnagramList.java",
+   "code/io_streams/src/Main.java",
+   "code/io_streams/src/Main1.java"
+
+
+  ],
+  "video": ""
+}
