@@ -3,6 +3,9 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation44/src/Checkable.java",
+   "code/consultation44/src/Main.java",
+   "code/consultation44/src/Transformable.java",
    "code/homework44/src/Homework.java",
    "code/io_close/src/Main.java",
    "code/io_close/src/Person.java",
