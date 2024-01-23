@@ -1,0 +1,20 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/homework44/src/Homework.java",
+   "code/io_close/src/Main.java",
+   "code/io_close/src/Person.java",
+   "code/io_close/src/Task.java",
+   "code/lambda_expressions/src/Arithmetical.java",
+   "code/lambda_expressions/src/Eatable.java",
+   "code/lambda_expressions/src/Flyable.java",
+   "code/lambda_expressions/src/Main.java",
+   "code/lambda_expressions/src/Product.java",
+   "code/lambda_expressions/src/Walkable.java"
+
+
+  ],
+  "video": ""
+}
