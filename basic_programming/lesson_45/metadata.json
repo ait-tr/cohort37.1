@@ -1,0 +1,27 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/built_in_interfaces/src/Main.java",
+   "code/homework45/src/Homework.java",
+   "code/homework45/src/Person.java",
+   "code/lambda/src/IsMoreInterface.java",
+   "code/lambda/src/Main.java",
+   "code/lambda/src/Operationable.java",
+   "code/method_reference/src/ExampleClass.java",
+   "code/method_reference/src/ExampleClass2.java",
+   "code/method_reference/src/ExampleInterface.java",
+   "code/method_reference/src/Main.java",
+   "code/method_reference/src/Person.java",
+   "code/method_reference/src/PersonCreator.java",
+   "code/our_interfaces/src/Checkable.java",
+   "code/our_interfaces/src/Concatable.java",
+   "code/our_interfaces/src/Main.java",
+   "code/our_interfaces/src/Printable.java",
+   "code/our_interfaces/src/Producable.java",
+   "code/our_interfaces/src/Transformable.java"
+
+  ],
+  "video": ""
+}
