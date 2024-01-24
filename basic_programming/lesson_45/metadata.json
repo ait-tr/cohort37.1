@@ -4,6 +4,8 @@
   "homework": "homework.md",
   "code": [
    "code/built_in_interfaces/src/Main.java",
+   "code/consultation45/src/Practice.java",
+   "code/consultation45/src/PracticeTest.java",
    "code/homework45/src/Homework.java",
    "code/homework45/src/Person.java",
    "code/lambda/src/IsMoreInterface.java",
