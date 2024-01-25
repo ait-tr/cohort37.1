@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/main46/src/MergeMethodDemo.java",
+   "code/our__interfaces/src/Checkable.java",
+   "code/our__interfaces/src/Concatable.java",
+   "code/our__interfaces/src/Main.java",
+   "code/our__interfaces/src/Printable.java",
+   "code/our__interfaces/src/Producable.java",
+   "code/our__interfaces/src/Transformable.java",
+   "code/stream_api/src/Car.java",
+   "code/stream_api/src/Main.java",
+   "code/stream_api/src/OurOptional.java"
+
+  ],
+  "video": ""
+}
