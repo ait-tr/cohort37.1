@@ -3,6 +3,9 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation46/src/BankAccount.java",
+   "code/consultation46/src/Practice.java",
+   "code/consultation46/src/StreamTask.java",
    "code/main46/src/MergeMethodDemo.java",
    "code/our__interfaces/src/Checkable.java",
    "code/our__interfaces/src/Concatable.java",
