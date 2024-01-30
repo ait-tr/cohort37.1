@@ -6,8 +6,8 @@
    "code/controllers/src/UserController.java",
    "code/controllers/src/UserControllerConsoleImpl.java",
    "code/model/src/User.java",
-   "code/repositories/src/CrudRepositiory.java",
-   "code/repositories/src/UserRepositiory.java",
+   "code/repositories/src/CrudRepository.java",
+   "code/repositories/src/UserRepository.java",
    "code/services/src/UserService.java"
   ],
   "video": ""
