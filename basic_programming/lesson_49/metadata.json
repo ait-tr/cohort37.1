@@ -3,6 +3,11 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+   "code/consultation49/src/Box.java",
+   "code/consultation49/src/Employee.java",
+   "code/consultation49/src/Main.java",
+   "code/consultation49/src/OurLinkedList.java",
+   "code/consultation49/src/OurList.java",
    "code/controllers/src/UserController.java",
    "code/controllers/src/UserControllerConsoleImpl.java",
    "code/model/src/User.java",
