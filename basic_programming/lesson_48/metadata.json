@@ -3,18 +3,18 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-   "code/complexity/src/Main.java",
-   "code/consultation48/src/BankAccount.java",
-   "code/consultation48/src/BankAccount2.java",
-   "code/consultation48/src/Box.java",
-   "code/consultation48/src/Employee.java",
-   "code/consultation48/src/Main.java",
-   "code/consultation48/src/Person.java",
-   "code/consultation48/src/Practice.java",
-   "code/consultation48/src/StreamTask.java",
-   "code/date_time/src/OurDateTime.java",
-   "code/homework48/src/Homework.java",
-   "code/homework48/src/Person.java"
+    "code/complexity/src/Main.java",
+    "code/consultation48/src/BankAccount.java",
+    "code/consultation48/src/BankAccount2.java",
+    "code/consultation48/src/Box.java",
+    "code/consultation48/src/Employee.java",
+    "code/consultation48/src/Main.java",
+    "code/consultation48/src/Person.java",
+    "code/consultation48/src/Practice.java",
+    "code/consultation48/src/StreamTask.java",
+    "code/date_time/src/OurDateTime.java",
+    "code/homework48/src/Homework.java",
+    "code/homework48/src/Person.java"
 
   ],
   "video": ""
