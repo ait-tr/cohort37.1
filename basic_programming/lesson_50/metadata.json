@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "code/ait/src/Main.java",
+   "code/controllers_/src/UserController.java",
+   "code/controllers_/src/UserControllerConsoleImpl.java",
+   "code/model_/src/User.java",
+   "code/repositories_/src/CrudRepository.java",
+   "code/repositories_/src/UserRepository.java",
+   "code/repositories_/src/UserRepositoryListImpl.java",
+   "code/services_/src/UserService.java",
+   "code/services_/src/UserServiceImpl.java"
+  ],
+  "video": ""
+}
