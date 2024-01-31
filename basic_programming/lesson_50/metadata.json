@@ -4,6 +4,9 @@
   "homework": "homework.md",
   "code": [
    "code/ait/src/Main.java",
+   "code/consultation50/src/OurLinkedList.java",
+   "code/consultation50/src/OurList.java",
+   "code/consultation50/src/OurListDemo.java",
    "code/controllers_/src/UserController.java",
    "code/controllers_/src/UserControllerConsoleImpl.java",
    "code/model_/src/User.java",

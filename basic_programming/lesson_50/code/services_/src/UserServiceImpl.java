@@ -12,7 +12,7 @@ public class UserServiceImpl implements UserService{
 
     private UserRepository repository;
 
-    public UserServiceImpl( UserRepository repository){
+    public UserServiceImpl(UserRepository repository){
         this.repository = repository;
     }
 
