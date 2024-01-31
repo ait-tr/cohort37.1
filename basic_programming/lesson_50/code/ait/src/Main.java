@@ -16,26 +16,37 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         boolean exit = false;
-        while(!exit){
+        while (!exit) {
             System.out.println("Enter: 1 -create new user," +
-                                      "2 -print all users " +
-                                      "3 - getById" +
-                                      "4 - getByEmail" +
-                                      "5 - delete"+
-                                       "6 - update"+
-                                        " exit to finish");
+                    "2 -print all users " +
+                    "3 - getById" +
+                    "4 - getByEmail" +
+                    "5 - delete" +
+                    "6 - update" +
+                    " exit to finish");
             String command = scanner.nextLine().toLowerCase();
 
-            switch (command){
-                case "exit": exit = true; break;
-                case "1": controller.create(); break;
-                case "2": controller.printAll();break;
+            switch (command) {
+                case "exit":
+                    exit = true;
+                    break;
+                case "1":
+                    controller.create();
+                    break;
+                case "2":
+                    controller.printAll();
+                    break;
                 case "3":
-                    System.out.println(controller.getById());break;
+                    System.out.println(controller.getById());
+                    break;
                 case "4":
-                    System.out.println(controller.getByEmail());break;
-                case "5": controller.delete();break;
-                case "6": controller.update();
+                    System.out.println(controller.getByEmail());
+                    break;
+                case "5":
+                    controller.delete();
+                    break;
+                case "6":
+                    controller.update();
             }
         }
     }
