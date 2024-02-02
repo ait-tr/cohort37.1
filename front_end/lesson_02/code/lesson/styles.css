@@ -1,0 +1,45 @@
+/* универсальный селектор */
+/* margin закомментирован для лучшего визуального восприятия,
+ в следующей домашней работе margin тоже можете не убирать */
+ 
+/* *{
+  margin: 0;
+} */
+
+/* селекторы по тегу */
+h1 {
+  background-color: rgb(204, 185, 185)
+}
+
+p {
+  color:rgb(84, 84, 182);
+}
+
+div {
+  background-color: aqua;
+}
+
+/* селектор по id */
+#director {
+  font-size: 28px;
+}
+
+/* селекторы по классу */
+.main-sections {
+  background-color: rgb(189, 180, 167);
+}
+
+.block-weight {
+  font-weight: bold;
+}
+
+/* селекторы по атрибуту */
+[href] {
+  background-color: rgb(116, 97, 134);
+}
+
+[href="./kino.html"] {
+  color: white
+}
+
+
