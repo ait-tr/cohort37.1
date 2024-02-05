@@ -1,0 +1,31 @@
+#root {
+  background-color: rgb(171, 163, 163);
+}
+
+header {
+  background-color: rgb(86, 112, 121);
+}
+
+.section-title {
+  font-size: 24px;
+  color: rgb(8, 30, 54);
+  font-weight: bold;
+}
+
+.career-section {
+  background-color: rgb(106, 127, 116);
+}
+
+.main_hobby {
+  color: brown;
+}
+
+.table-col-title {
+  background-color: rgb(18, 18, 51);
+  color: white;
+  font-size: 20px;
+}
+
+footer {
+  background-color: rgb(56, 79, 87);
+}
