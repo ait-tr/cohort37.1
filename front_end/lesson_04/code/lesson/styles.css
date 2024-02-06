@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  padding: 20px;
+  background-color: rgb(49, 102, 102);
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  z-index: 4;
+}
+
+.cards-wrapper {
+  width: 800px;
+  height: 800px;
+  /* Задаём позицию relative для расположения блока с позицией absolute внутри cards-wrapper */
+  /* position: relative; */
+  top: 200px;
+  padding: 40px;
+  margin: 200px 40px 40px;
+  background-color: rgb(53, 59, 55);
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  font-size: 26px;
+}
+
+.card-approach {
+  background-color: rgb(119, 161, 204);
+  border: 4px solid rgb(180, 194, 180);
+  position: relative;
+  top: 20px;
+  left: 40px;
+  z-index: 2;
+}
+
+.card-team {
+  background-color: rgb(174, 176, 111);
+  border: 4px solid rgb(191, 194, 180);
+  /* Пример абсолютного позиционирования элемента card-team */
+  /* position: absolute;
+  top: 0;
+  left: 0; */
+  position: relative;
+  bottom: 50px;
+  left: 80px;
+  z-index: 1;
+}
+
+.card-focus {
+  background-color: rgb(176, 133, 111);
+  border: 4px solid rgb(255, 216, 208);
+  position: relative;
+  bottom: 120px;
+  left: 120px;
+  z-index: 3;
+}
+
+.card-quality {
+  position: sticky;
+  top: 10px;
+  background-color: rgb(132, 206, 140);
+  border: 4px solid rgb(214, 255, 208);
+}
+
+/* img {
+  width: 200px;
+  height: 200px;
+  border: 6px solid rgb(219, 216, 216);
+  border-radius: 50%;
+} */
+
+.button {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  background-color: rgb(204, 245, 71);
+  border-radius: 50%;
+}
+
+.image-background-block {
+  /* Задание различных значения фона с помощью отдельных свойств */
+  /* background-image: url(./images/rocks.jpg), url(./images/background-image.jpg); */
+  /* background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; */
+  background: rgb(155, 127, 127) url(./images/rocks.jpg) no-repeat top;
+  background-size: contain;
+  color:beige;
+  font-size: 46px;
+  font-weight: bold;
+}
