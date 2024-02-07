@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(252, 249, 244);
+}
+
+header {
+  background-color: rgb(115, 164, 164);
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  position: fixed;
+  z-index: 4;
+  top: 0;
+  font-size: 30px;
+  font-family: "Lucida Sans";
+}
+
+.font__modif {
+  color: black;
+  font: 1em sans-serif;
+}
+
+/* li, h2 {
+  color: black;
+  font: 1em sans-serif;
+} */
+
+
+h1 {
+  color: white;
+}
+
+.card {
+  padding: 20px;
+  width: 400px;
+  height: 500px;
+  border-width: 2px;
+  /* text-align: center; */
+  /* margin: 30px; */
+}
+
+.border__double {
+  border-style: double;
+  border-color: rgb(46, 18, 106);
+  background-color: rgb(193, 240, 190);
+  position: relative;
+  top: 250px;
+  left: 200px;
+  z-index: 1;
+}
+
+.border__groove {
+  border-style: groove;
+  border-color: rgb(151, 148, 143);
+  background-color: rgb(230, 221, 210);
+  border-radius: 50px;
+  position: relative;
+  top: 200px;
+  left: 350px;
+  z-index: 2;
+}
+
+.border__dashed {
+  border-style: dashed;
+  border-color: blanchedalmond;
+  background-color: rgb(146, 153, 131);
+  /* border: 10px dashed blanchedalmond; */
+  position: relative;
+  top: 150px;
+  left: 450px;
+  z-index: 3;
+}
