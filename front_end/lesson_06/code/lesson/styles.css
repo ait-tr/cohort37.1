@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Работа с flexbox */
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  height: 850px;
+  background-color: rgb(172, 223, 223);
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.card-penguin {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(220, 204, 117);
+  border: 4px solid rgb(177, 132, 27);
+  order: 7; 
+  flex-basis: 400px;
+  flex-shrink: 2;
+  flex-grow: 1;
+}
+
+.card-elephant {
+  background-color: rgb(147, 146, 143);
+  border: 4px solid rgb(55, 54, 52);
+  order: 2;
+  flex-basis: 400px;
+  flex-shrink: 1;
+  flex-grow: 2;
+  flex: 1;
+  align-self: center;
+}
+
+.card-butterfly {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(93, 131, 177);
+  border: 4px solid rgb(53, 48, 86);
+  order: 6
+} */
+
+/* Работа с формами */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  /* height - временно */
+  /* height: 600px; */
+  padding: 20px;
+  background-color: rgb(171, 213, 213);
+  border: 4px solid rgb(53, 62, 67);
+  border-radius: 6px;
+  gap: 40px;
+}
+
+.main-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 20px;
+}
+
+input,
+select {
+  height: 30px;
+  border: 2px solid rgb(60, 60, 72);
+  border-radius: 4px;
+}
+
+.element-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}

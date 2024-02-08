@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./styles.css" type="text/css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 6</title>
+  </head>
+  <body>
+    <!-- Работа с flex элементами -->
+    <!-- <div>
+    <div class="container">
+      <div class="card card-penguin">
+        Penguin: A flightless bird with a distinctive black and white plumage,
+        known for its playful waddling and excellent swimming abilities.
+      </div>
+      <div class="card card-elephant">
+        Elephant: Majestic land mammal characterized by its large ears, long
+        trunk, and impressive tusks, symbolizing strength and intelligence.
+      </div>
+      <div class="card card-butterfly">
+        Butterfly: Delicate insect with vibrant, iridescent wings, undergoing a
+        remarkable metamorphosis from a caterpillar to a graceful flyer.
+      </div>
+    </div> -->
+    <!-- Работа с формами -->
+    <div id="root">
+      <div class="form-container">
+        <h2>Main form</h2>
+        <form class="main-form">
+          <div class="element-container">
+            <label for="name">Name*</label>
+            <input name="user_name" placeholder="name" required id="name" />
+          </div>
+          <div class="element-container">
+            <label for="surname">Surname</label>
+            <input
+              name="user_surname"
+              placeholder="surname"
+              value="Ivanov"
+              id="surname"
+            />
+          </div>
+          <div class="element-container">
+            <label for="email">Email</label>
+            <input
+              name="user_email"
+              placeholder="email"
+              type="email"
+              id="email"
+            />
+          </div>
+          <textarea rows="6">Notes:</textarea>
+          <div class="element-container">
+            <label for="gender">Gender</label>
+            <select id="gender">
+              <option>Male</option>
+              <option>Female</option>
+            </select>
+          </div>
+          <button>Submit</button>
+          <button type="reset">Reset</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

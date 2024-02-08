@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  min-height: 100%;
+  font-family: "Philosopher", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px 40px;
+  border: 1px solid;
+  background-color: rgb(229, 244, 112);
+  text-align: left;
+}
+
+.company-name-title {
+  font-size: 46px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row-reverse;
+  font-size: 26px;
+  font-style: normal;
+}
+
+nav :hover {
+  text-decoration: none;
+  color: red;
+}
+
+.nav-link {
+  margin-right: 20px;
+}
+
+.dog {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  /* height: 300px; */
+  background-color: antiquewhite;
+  padding: 2px;
+  margin: 3px;
+  border: 2px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+img {
+  width: 150px;
+  height: 120px;
+}
+
+.container-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0px;
+  /* height: 60px; */
+  width: 100%;
+  background: rgb(229, 244, 112);
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.info {
+  font-size: 24px;
+}
