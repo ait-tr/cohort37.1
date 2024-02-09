@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: grid;
+  /* Создание шаблона строк и столбцов */
+  /* grid-template-columns: 2fr 200px 1fr;
+     grid-template-rows: 2fr 1fr 2fr 1fr;
+     grid-template: 2fr 1fr 1fr/2fr 200px 1fr; */
+  /*  */
+
+  /* Выравнивание элементов вдоль горизонтальной и вертикальной оси*/
+  /* justify-items: center;
+     align-items: stretch; */
+  /*  */
+
+  /* Работа с группировакой контента в несколько рядов */
+  /* grid-template-columns: 2fr 1fr 2fr; 
+     grid-template-rows: repeat(3, 1fr);
+     grid-template-rows: repeat(2, 1fr);
+     justify-content: space-around;
+      align-content: space-around; */
+  /*  */
+
+  /* Создание шаблона областей */
+  /* grid-template:
+    "pen pen pen el"
+    "but but but but"
+    "dol gir gir gir"; */
+  /*  */
+
+  grid-template: 2fr 1fr 2fr 1fr/2fr 1fr 2fr;
+  width: 100%;
+  height: 100%;
+  font-size: 30px;
+  row-gap: 20px;
+  column-gap: 40px;
+  /* justify-items: center; */
+}
+
+.container > div {
+  width: 150px;
+  height: 150px;
+}
+
+.penguin {
+  background-color: rgb(127, 175, 197);
+  border: 2px solid rgb(59, 93, 100);
+  /* grid-area: pen; */
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  justify-self: center;
+  align-self: start;
+}
+
+.elephant {
+  background-color: rgb(174, 187, 193);
+  border: 2px solid rgb(47, 50, 51);
+  /* grid-area: el; */
+}
+
+.butterfly {
+  background-color: rgb(220, 177, 210);
+  border: 2px solid rgb(66, 51, 65);
+  /* grid-area: but; */
+}
+
+.dolphin {
+  background-color: rgb(130, 121, 178);
+  border: 2px solid rgb(24, 26, 69);
+  /* grid-area: dol; */
+}
+
+.giraffe {
+  background-color: rgb(178, 171, 121);
+  border: 2px solid rgb(90, 82, 26);
+  /* grid-area: gir; */
+}
