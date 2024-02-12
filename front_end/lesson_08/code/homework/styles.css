@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.page-container {
+  display: grid;
+  grid-template-rows: 1fr 5fr 1fr;
+  grid-template-columns: 3fr 1fr;
+  grid-template-areas:
+    "header header"
+    "main aside"
+    "footer footer";
+  column-gap: 20px;
+  row-gap: 40px;
+  width: 100%;
+  min-height: 100%;
+  font-size: 36px;
+}
+
+header {
+  grid-area: header;
+  background-color: rgb(182, 229, 229);
+  padding: 30px;
+}
+
+main {
+  display: grid;
+  grid-template: repeat(2, 1fr)/repeat(2,1fr);
+  grid-area: main;
+  gap: 20px;
+  background-color: rgb(132, 224, 205);
+  padding: 40px;
+  color: aliceblue;
+  margin-left: 20px;
+}
+
+aside {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  justify-items: center;
+  /* align-items: center; */
+  /* grid-template-rows: 1fr 3fr; */
+  grid-area: aside;
+  background-color: rgb(183, 204, 121);
+  padding: 30px;
+  margin-right: 20px;
+}
+
+/* img {
+  width: 300px;
+} */
+
+.aside-img {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  max-width: 600px;
+  min-width: 400px;
+  background-image: url(./images/aside-info.jpg);
+  background-size: cover;
+}
+
+footer {
+  grid-area: footer;
+  background-color: rgb(121, 136, 204);
+  padding: 30px;
+}
+
+.section-info {
+  background-color: rgb(33, 42, 85);
+  padding: 30px;
+}
+
+.section-contacts {
+  background-color: rgb(19, 59, 30);
+  padding: 30px;
+}
+
+.section-photos {
+  grid-row: 1/3;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  background-color: rgb(61, 34, 18);
+  padding: 30px;
+}

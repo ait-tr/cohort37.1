@@ -1,0 +1,21 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/homework/index.html",
+    "./code/homework/styles.css",
+    "./code/project/commonStyles/elements.css",
+    "./code/project/commonStyles/globalStyles.css",
+    "./code/project/pages/about/index.html",
+    "./code/project/pages/about/styles.css",
+    "./code/project/pages/contacts/index.html",
+    "./code/project/pages/contacts/styles.css",
+    "./code/project/pages/gallery/index.html",
+    "./code/project/pages/gallery/styles.css",
+    "./code/project/index.html",
+    "./code/project/styles.css"
+  ],
+  "video": "",
+  "etc": ""
+}
