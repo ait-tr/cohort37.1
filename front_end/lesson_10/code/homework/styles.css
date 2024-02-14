@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-size: 26px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(127, 187, 167);
+  padding: 20px 40px;
+}
+
+.title {
+  margin-right: 20px;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  align-self: flex-end;
+}
