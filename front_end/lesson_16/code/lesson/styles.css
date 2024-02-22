@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  background: rgb(203, 220, 93);
+  padding: 30px;
+  border: 4px solid rgb(88, 211, 88);
+  border-radius: 6px;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.height-input,
+.gender-select {
+  width: 100%;
+  height: 50px;
+  padding: 5px;
+  border: 2px solid rgb(19, 85, 45);
+  font-size: 18px;
+}
+
+.result-button {
+  width: 100%;
+  height: 40px;
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgb(255, 191, 0);
+  cursor: pointer;
+}
+
