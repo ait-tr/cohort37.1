@@ -6,7 +6,7 @@
     "./code/homework/index.js",
     "./code/lesson/index.js",
     "./code/lesson/index.html",
-    "./code/lesson/index.css",
+    "./code/lesson/styles.css",
     "./code/lesson/book_data.json"
   ],
   "video": "",
