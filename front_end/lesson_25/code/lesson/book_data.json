@@ -1,0 +1,11 @@
+{
+  "book": {
+    "title": "Book title",
+    "author": {
+      "name": "D. Adams",
+      "birth_year": 1955,
+      "death_year": 2001
+    },
+    "genres": ["Science Fiction", "Comedy"]
+  }
+}
