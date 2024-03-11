@@ -2,5 +2,5 @@
   "plan": "plan.md",
   "theory": "theory.md",
   "homework": "homework.md",
-  "code": ["./code/README.md"]
+  "code": ["./code/README.md", "./code/queries.sql"]
 }
