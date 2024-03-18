@@ -138,13 +138,17 @@ use("school_db");
 // db.users.find({$expr: {$lt: ["$salary", "$costs"]}});
 
 //
-// db.users.insertMany([
-//   {name: "John Snow", hobbys: ["swords", "bows", "wolfs", "red-head"], age: 20},
-//   {name: "Han Solo", hobbys: ["space", "blasters"], age: 36}
-// ]);
+db.users.insertMany([
+  {
+    name: "John Snow",
+    hobbys: ["swords", "bows", "wolfs", "red-head"],
+    age: 20,
+  },
+  { name: "Han Solo", hobbys: ["space", "blasters"], age: 36 },
+]);
 
 // выбрать людей с хотя одним из указанных хобби: "space", "snowboard"
-// db.users.find({hobbys: {$in: ["space", "snowboard"]}});
+db.users.find({ hobbys: { $in: ["space", "snowboard"] } });
 
 // Все  кто не интересуется "space", "snowboard"
 // db.users.find({ hobbys: { $nin: ["space", "snowboard"] } });
