@@ -25,10 +25,10 @@
 
 ```jsx
   {
-    car_id: 1,
+    _id: 1,
     owner: "Ivanov Ivan",
     phone: "1234567",
-
+    cars: [1, 2, 3]
   }
 ```
 
